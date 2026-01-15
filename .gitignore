@@ -1,0 +1,116 @@
+# ================================
+# IoT Anomaly Detection System
+# .gitignore
+# ================================
+
+# =============
+# Python
+# =============
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+ENV/
+env/
+.eggs/
+*.egg-info/
+*.egg
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# =============
+# Node.js
+# =============
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+.pnp.*
+
+# =============
+# Environment Files
+# =============
+.env
+.env.local
+.env.*.local
+
+# Keep .env.example files (they are templates for setup)
+!.env.example
+!**/.env.example
+
+# =============
+# IDE & Editors
+# =============
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# =============
+# OS Files
+# =============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# =============
+# Build & Cache
+# =============
+build/
+dist/
+.next/
+out/
+.cache/
+
+# =============
+# Testing
+# =============
+coverage/
+test-results/
+
+# =============
+# Logs
+# =============
+logs/
+*.log
+
+# =============
+# Secrets & Keys
+# =============
+*.pem
+*.key
+secrets/
+
+# =============
+# Temporary Files
+# =============
+*.tmp
+*.temp
+*.bak
+frontend/node_modules/.cache/default-development/0.pack
+-e 
+# Environment files
+*.env
+*.env.*
