@@ -254,18 +254,18 @@ http://localhost:8001/api
 
 ### Endpoints
 
-| Method | Endpoint                     | Description                          |
-|--------|------------------------------|--------------------------------------|
-| `GET`  | `/health`                    | Health check                         |
-| `POST` | `/sensor/data`               | Submit sensor reading                |
-| `GET`  | `/sensor/readings?limit=100` | Get historical readings              |
-| `POST` | `/predict`                   | Submit data & get anomaly prediction |
-| `GET`  | `/predictions`               | Get prediction history               |
-| `GET`  | `/alerts`                    | Get active alerts                    |
-| `PUT`  | `/alerts/{id}/acknowledge`   | Acknowledge alert                    |
-| `GET`  | `/system/status`             | System statistics                    |
-| `POST` | `/sensor/simulate?count=10`  | Generate test data                   |
-| `POST` | `/model/retrain`             | Retrain ML model                     |
+| Method | Endpoint                               | Description                          |
+|--------|----------------------------------------|--------------------------------------|
+| `GET`  | `/health`                              | Health check                         |
+| `POST` | `/sensor/data`                         | Submit sensor reading                |
+| `GET`  | `/sensor/readings?limit=100`           | Get historical readings              |
+| `POST` | `/predict`                             | Submit data & get anomaly prediction |
+| `GET`  | `/predictions`                         | Get prediction history               |
+| `GET`  | `/alerts`                              | Get active alerts                    |
+| `PUT`  | `/api/alerts/{alert_id}/acknowledge`   | Acknowledge alert                    |
+| `GET`  | `/system/status`                       | System statistics                    |
+| `POST` | `/sensor/simulate?count=10`            | Generate test data                   |
+| `POST` | `/model/retrain`                       | Retrain ML model                     |
 
 ### Interactive Documentation
 
