@@ -303,8 +303,8 @@ IsolationForest(
 ### Data Generation
 
 All data is **locally generated/simulated** - no external APIs or datasets required:
-- Normal data: Gaussian distribution (μ=45°C, σ=8)
-- Anomaly data: Uniform distribution (80-100°C)
+- Normal: Gaussian (temp μ=45, σ=8; hum μ=55, σ=10; sound μ=70, σ=10)
+- Anomaly: Uniform (temp 80–100°C; hum 10–25%; sound 100–120 dB)
 
 ---
 
