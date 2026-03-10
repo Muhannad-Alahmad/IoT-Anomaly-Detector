@@ -3,12 +3,12 @@
 
 
 
-![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.110-green.svg)
-![React](https://img.shields.io/badge/React-19-61DAFB.svg)
-![MongoDB](https://img.shields.io/badge/MongoDB-Latest-47A248.svg)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.8-F7931E.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.110-green.svg)](https://fastapi.tiangolo.com/)
+[![React](https://img.shields.io/badge/React-19-61DAFB.svg)](https://react.dev/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Latest-47A248.svg)](https://www.mongodb.com/docs/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.8-F7931E.svg)](https://scikit-learn.org/stable/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **A real-time anomaly detection system for industrial IoT sensor data using Machine Learning**
 
