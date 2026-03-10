@@ -8,7 +8,7 @@
 <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-19-61DAFB.svg" alt="React"></a>
 <a href="https://www.mongodb.com/docs/"><img src="https://img.shields.io/badge/MongoDB-Latest-47A248.svg" alt="MongoDB"></a>
 <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/scikit--learn-1.8-F7931E.svg" alt="scikit-learn"></a>
-<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"></a>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-18%2B-339933.svg" alt="Node.js 18+"></a>
 
 **A real-time anomaly detection system for industrial IoT sensor data using Machine Learning**
 
