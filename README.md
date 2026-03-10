@@ -52,7 +52,7 @@ This project implements a **stream processing anomaly detection system** for a w
 |-----------------|---------|------------------------------------------------|
 | **Python**      | 3.11+   | https://www.python.org/downloads/              |
 | **Node.js LTS** | 18+     | https://nodejs.org/                            |
-| **Yarn**        | 1.22+   | https://nodejs.org/                            |
+| **Yarn**        | 1.22+   | https://yarnpkg.com/getting-started/install    |
 | **MongoDB**     | 6.0+    | https://www.mongodb.com/try/download/community |
 
 ### Verify Installations
