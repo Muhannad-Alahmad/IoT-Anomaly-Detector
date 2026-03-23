@@ -429,6 +429,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built for Industrial IoT Anomaly Detection**
 
-*University Project - Stream Processing & Machine Learning*
+*University Course - Project: From Model to Production*
 
 </div>
